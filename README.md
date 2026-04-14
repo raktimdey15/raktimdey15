@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **raktimdey901@gmail.com**
 
-- 📄 Know about my experiences [Click on Resume at raktimdey.netlify.app](Click on Resume at raktimdey.netlify.app)
+- 📄 Know about my experiences [Click on Resume at raktimdey.netlify.app]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
